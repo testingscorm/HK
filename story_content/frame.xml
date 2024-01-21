@@ -13,7 +13,7 @@
         <options>
           <option name="title_enabled" value="false">
             <options>
-              <option name="title_text" value="Hongs Kitchen 7-Steps of Order Taking- Multi Dine In " />
+              <option name="title_text" value="Hongs Kitchen 7-Steps of Order Taking (English Version)" />
             </options>
           </option>
           <option name="logo_enabled" value="false">
@@ -35,7 +35,7 @@
           </optionlist>
           <option name="time_enabled" value="false">
             <options>
-              <option name="time_format" value="elapsed" />
+              <option name="time_format" value="" />
             </options>
           </option>
           <option name="video_enabled" value="false">
